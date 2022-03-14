@@ -70,13 +70,13 @@ The encountered challenges while analysing this data set is that launch and ende
 + Considering 2 line charts, the outcomes of Theater category plays a notable part in the overall outcome of the data. In conclusion, people prefers the campaigns in Plays subcategory under Theater category over other categories. For futere reference, Lousise have higher successful chance if she plans campaigns in Plays/Theater in May or June. 
 
 ### Conclusion on Outcomes based Goals
-+From the summary table of goals amount and outcome percentages, it is noticebly that the campaign tends to be successful if the funding goal is under $5000.  
++ From the summary table of goals amount and outcome percentages, it is noticebly that the campaign tends to be successful if the funding goal is under $5000.  
 Louise should keep her crowdfunding goal under $5000, if she consider the successful rate as a priority.
 
 ### Limitations of this dataset
 There are many other factors that can play the part in the outcome results of the crowdfunding campaigns, such as age, race, the more precise location of the campaign, the method of the fundraising, etc. This analysis is carried out based on some part of these factors, which are money (goal amount), and the time period. To better plan the future campaigns, further research and data collections in other aspects may need to be considered.
 
 ### Possible tables and graphs that we could create
-As the data was collected from 2009 to 2017, which is a 8 year period. We could also create a bar chart of outcomes versus years, to see the big picture of the trends, number of campaign in each year. For example, the following chart shows that the highest number of campaigns held were in 2014-2016. In 2017, the data was only collected for 3 months (January-March), despite the notably low number of the campaigns. The results of the difference might be from the economic collapse, the global pandemic, or other possible factors. This might help Louise figure out how to plan the upcoming remaining of the year to meet the number of last previous years.
+As the data was collected from 2009 to 2017, which is a 8 year period. We could also create a bar chart of outcomes versus years, to see the big picture of the trends of the number of campaigns in each year. For example, the following chart shows that the highest number of campaigns held were in 2014-2016. In 2017, the data was only collected for 3 months (January-March), despite the notably low number of the campaigns. The results of the difference might be from the economic collapse, the global pandemic, or other possible factors. This might help Louise figure out how to plan the upcoming remaining of the year to meet the number of last previous years.
 
 ![Outcome_vs_Years](https://github.com/asama-w/kickstarter-analysis/blob/main/Additional%20Charts%20and%20Images/Outcomes_vs_Years.png)
