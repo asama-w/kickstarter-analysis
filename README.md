@@ -1,20 +1,11 @@
 # An Analysis of Kickstarter Campaigns
 ## Overview of the Project
 ### Purpose
-This analysis is to help Louise discover the trends and factors which might have affected her previous campaign by visualizing data in Excel, in order to increase a successful rate of her future crowdfunding projects
+This analysis is to help Louise discover the trends and factors which might have affected her previous campaign by visualizing data in Excel, in order to increase a successful rate of her future crowdfunding projects.
 ### Campaign Data Overview
 From the data, there are a total number of 4,114 crowdfunding campaigns being held during 2009-2017, of which 53% succeed in meeting the funding goal, 37% has failed, 8% was canceled and 1% were on-going at the time.
 
-The followings are 9 main categories of the campaigns;
-1. Theater 
-2. Music 
-3. Technology 
-4. Film & Video 
-5. Publishing
-6. Photography
-7. Games 
-8. Food 
-9. Journalism 
+The campaigns consist of 9 main categories, a.k.a parent categories, as shown in the pie chart below;
 
 ![Category pie chart](https://github.com/asama-w/kickstarter-analysis/blob/main/Additional%20Charts%20and%20Images/Campaign_Category.png)
 
@@ -36,14 +27,21 @@ From the category bar chart, the top 3 main categories that has a high successfu
 
 ### Analysis of Outcomes Based on Launch Date
 
+![Outcome_vs_Launch_date](to-be-added)
+![Outcome](to-be-added)
 
 ### Analysis of Outcomes Based on Goals
+
+![Outcomes_vs_Goals](to-be-added)
+
 
 ### Challenges and Difficulties Encountered
 
 
 ## Results
 ### Conclusion on Outcomes based on Launch Date
+
+
 
 ### Conclusion on Outcomes based Goals
 
