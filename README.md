@@ -71,7 +71,7 @@ The encountered challenges while analysing this data set is that launch and ende
 
 ### Conclusion on Outcomes based Goals
 + From the summary table of goals amount and outcome percentages, it is noticebly that the campaign tends to be successful if the funding goal is under $5000.  
-Louise should keep her crowdfunding goal under $5000, if she consider the successful rate as a priority.
+Louise should keep her crowdfunding goal under $5000, if she considers the successful rate as a priority.
 
 ### Limitations of this dataset
 There are many other factors that can play the part in the outcome results of the crowdfunding campaigns, such as age, race, the more precise location of the campaign, the method of the fundraising, etc. This analysis is carried out based on some part of these factors, which are money (goal amount), and the time period. To better plan the future campaigns, further research and data collections in other aspects may need to be considered.
