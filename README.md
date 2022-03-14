@@ -15,7 +15,8 @@ The followings are 9 main categories of the campaigns;
 7. Games 
 8. Food 
 9. Journalism 
-![Category pie chart](to-be-added)
+
+![Category pie chart](https://github.com/asama-w/kickstarter-analysis/blob/main/Additional%20Charts%20and%20Images/Campaign_Category.png)
 
 ## Analysis and Challenges
 
@@ -29,7 +30,7 @@ The factors the are mainly used to determine the trends of the data are
 
 By sorting out the data, applying filters, and creating pivot tables according to the categories, outcome results, and launch date, the overview of the outcome is as shown in the bar chart below;
 
-![Parent Category Bar chart](to-be-added)
+![Parent Category Bar chart](https://github.com/asama-w/kickstarter-analysis/blob/main/Additional%20Charts%20and%20Images/Parents_Category_Outcomes.png)
 
 From the category bar chart, the top 3 main categories that has a high successful rate of the data are Theater, Music, and Film & Video. Theater categories holds the most successful number of 839 campaigns.
 
