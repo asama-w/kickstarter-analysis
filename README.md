@@ -13,11 +13,11 @@ The campaigns consist of 9 main categories, a.k.a parent categories, as shown in
 
 ### Analysis Overview
 The factors the are mainly used to determine the trends of the data are
-*Goals
-*Pledged Amount
-*Campaign Launch Date
-*Categories and Subcategories
-*Outcome results: Successful, Failed, Canceled (whether the funding goal has been met)
++ Goals
++ Pledged Amount
++ Campaign Launch Date
++ Categories and Subcategories
++ Outcome results: Successful, Failed, Canceled (whether the funding goal has been met)
 
 By sorting out the data, applying filters, and creating pivot tables according to the categories, outcome results, and launch date, the overview of the outcome is as shown in the bar chart below;
 
