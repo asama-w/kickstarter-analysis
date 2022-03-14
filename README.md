@@ -67,7 +67,7 @@ The encountered challenges while analysing this data set is that launch and ende
 ## Results
 ### Conclusion on Outcomes based on Launch Date
 + Refering to the line charts above, from April to May, the number of successful fundraising campaigns significantly increase and stay relatively high in June and July despite the drop in numbers. It may be the result of the climate or season change, as May-July is the spring-summer, after a long winter period, people might be more active. It can be concluded that Louise should plan her future campaign in May-June, or July.
-+Considering 2 line charts, the outcomes of Theater category plays a notable part in the overall outcome of the data. In conclusion, people prefers the campaigns in Plays subcategory under Theater category over other categories. For futere reference, Lousise have higher successful chance if she plans campaigns in Plays/Theater in May or June. 
++ Considering 2 line charts, the outcomes of Theater category plays a notable part in the overall outcome of the data. In conclusion, people prefers the campaigns in Plays subcategory under Theater category over other categories. For futere reference, Lousise have higher successful chance if she plans campaigns in Plays/Theater in May or June. 
 
 ### Conclusion on Outcomes based Goals
 +From the summary table of goals amount and outcome percentages, it is noticebly that the campaign tends to be successful if the funding goal is under $5000.  
