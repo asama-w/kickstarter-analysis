@@ -29,7 +29,7 @@ By sorting out the data, applying filters, and creating pivot tables according t
 
 From the category bar chart, the top 3 main categories that has the highest successful rate of the data are Theater, Music, and Film & Video, respectively. As the Theater categories holds the most successful number of 839 campaigns, which is considerably higher than other categories, the anaylysis will focus further into the Theater Category.
 
-Within the 9 parent categories, there are subcategories that need to be considered. By analying the overview of subcategories, "Plays" subcategory under Theater parent category holds the highest number of the campaigns. 
+Within the 9 parent categories, there are subcategories that need to be considered. By analysing the overview of subcategories, "Plays" subcategory under Theater parent category holds the highest number of the campaigns. 
 
 ![Subcategory_overview](https://github.com/asama-w/kickstarter-analysis/blob/main/Additional%20Charts%20and%20Images/Subcategory_Outcome_All.png)
 
