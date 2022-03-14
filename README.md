@@ -6,18 +6,35 @@ This analysis is to help Louise discover the trends and factors which might have
 From the data, there are a total number of 4,114 crowdfunding campaigns being held during 2009-2017, of which 53% succeed in meeting the funding goal, 37% has failed, 8% was canceled and 1% were on-going at the time.
 
 The followings are 9 main categories of the campaigns;
-1. Theater 34% (highest successful rate)
-2. Music 17%
-3. Technology 15%
-4. Film & Video 13% 
-5. Publishing 6%
-6. Photography 5%
-7. Games 5%
-8. Food 5%
-9. Journalism 1% (all canceled)
+1. Theater 
+2. Music 
+3. Technology 
+4. Film & Video 
+5. Publishing
+6. Photography
+7. Games 
+8. Food 
+9. Journalism 
+![Category pie chart](to-be-added)
 
 ## Analysis and Challenges
+
+### Analysis Overview
+The factors the are mainly used to determine the trends of the data are
+*Goals
+*Pledged Amount
+*Campaign Launch Date
+*Categories and Subcategories
+*Outcome results: Successful, Failed, Canceled (whether the funding goal has been met)
+
+By sorting out the data, applying filters, and creating pivot tables according to the categories, outcome results, and launch date, the overview of the outcome is as shown in the bar chart below;
+
+![Parent Category Bar chart](to-be-added)
+
+From the category bar chart, the top 3 main categories that has a high successful rate of the data are Theater, Music, and Film & Video. Theater categories holds the most successful number of 839 campaigns.
+
 ### Analysis of Outcomes Based on Launch Date
+
 
 ### Analysis of Outcomes Based on Goals
 
